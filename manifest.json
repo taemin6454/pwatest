@@ -1,0 +1,17 @@
+{
+  "background_color": "#6400ff",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "10000PWATEST",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "PWATEST",
+  "start_url": "https://taemin6454.github.io/pwatest/",
+  "theme_color": "#6400ff",
+  "icons": [
+    {
+      "src": "img/favicon.ico"
+    }
+  ],
+  "id": "10000_PWA_test"
+}
